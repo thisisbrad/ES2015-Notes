@@ -26,7 +26,7 @@ function getYear(){
 getYear(); // The year is 2016 
 ```
 
-Now lets rewrite this code with template strings. The syntax will look a lot nicer than before. Nothing is going to change other than instead of double or single quotes, we are going to use the ` (backtick/backquote)
+Now lets rewrite this code with template strings. The syntax will look a lot nicer than before. Nothing is going to change other than instead of double or single quotes, we are going to use the ` (backtick/backquote) Inside there backtiacks we will use ${} to inject our JavaScript expressions. 
 
 ```
 function getYear(){
