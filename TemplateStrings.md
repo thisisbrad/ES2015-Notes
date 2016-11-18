@@ -1,11 +1,10 @@
-#Template Strings / Template Literials
+#Template Strings / Template Literials 
 
->Synstax Sugar or a New Construct to the language?
->Know the difference? 
-
-```function doubleMessage(number) {
+```
+function doubleMessage(number) {
   return `Your number doubled is ${(2 * number)}`;
-}```
+}
+```
 ###Looks super sexy huh? 'Cause it is!
 
 Old way plus the flaws. Need to concatenate and escape characters. 
