@@ -1,7 +1,7 @@
 #Template Strings / Template Literials
 
-##Synstax Sugar or a New Construct to the language?
-##Know the difference? 
+>Synstax Sugar or a New Construct to the language?
+>Know the difference? 
 
 ```function doubleMessage(number) {
   return `Your number doubled is ${(2 * number)}`;
@@ -61,7 +61,7 @@ console.log("The quiz is " + a + " questions and the student got " + b + " corre
 ```
 
 
-ES2015
+- ES2015
 http://www.ecma-international.org/ecma-262/6.0/#sec-template-literals
-MDN
+- MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
