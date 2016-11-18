@@ -4,4 +4,4 @@
 
 - [Array Helpers](/Arrays.md)
 - [Const and Let](/LetConst.md)
-- [Template Strings](/LetConst.md)
+- [Template Strings](/TemplateStrings.md)
